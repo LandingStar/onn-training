@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Compress-Archive -Path autoencoder\\\\* -DestinationPath backup_original_task2.zip -Force\")",
+      "Bash(powershell -Command \"Compress-Archive -Path * -DestinationPath backup_original_task3.zip -Force\")",
+      "Bash(ls -la *.zip)"
+    ]
+  }
+}

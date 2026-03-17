@@ -1,0 +1,6 @@
+[submodule "task1"]
+	path = task1
+	url = https://github.com/LandingStar/onntask1.git
+[submodule "VAE"]
+	path = VAE
+	url = https://github.com/LandingStar/oVAE.git
